@@ -5,6 +5,7 @@
     border: 1px solid black;
     display: flex;
     flex-flow: wrap;
+    margin-top: 20px;
 }
 
 .block{
@@ -37,3 +38,42 @@ body{
     justify-content: center;
 }
 
+.centerit{
+    margin: auto;
+    width: 50%;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.innerbody{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.header{
+    margin-left: 265px;
+}
+
+.Clear{
+    margin-top: 5px;
+}
+
+.sixteen{
+    max-width: 100px;
+}
+
+.thirtytwo{
+    max-width: 100px;
+}
+
+.sixtyfour{
+    max-width: 100px;
+}
+
+.footer{
+    margin-left: 280px;
+}
